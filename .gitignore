@@ -1,0 +1,6 @@
+/node_modules
+/public/extra
+/public/image-backup
+/public/images
+/public/python/model-ann
+*.avi
